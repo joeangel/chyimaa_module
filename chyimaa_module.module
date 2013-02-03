@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the chyimaa_module feature.
+ */
+
+include_once 'chyimaa_module.features.inc';
