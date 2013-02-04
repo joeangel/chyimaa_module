@@ -5,6 +5,13 @@
  */
 
 /**
+ * Implements hook_views_api().
+ */
+function chyimaa_module_views_api() {
+  return array("api" => "3.0");
+}
+
+/**
  * Implements hook_eck_bundle_info().
  */
 function chyimaa_module_eck_bundle_info() {
